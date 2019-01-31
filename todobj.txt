@@ -1,0 +1,29 @@
+-sair da sala no evento de fechar
+-nao deixar entrar com nome vazio ou caracter diferente de letra
+- só precis fzer no cliente um funcso pr qundo clicr no botvo de sir d sl
+OÇSINFÇOINMSD inferno de tecl
+e qnd cbr o jogo, fz mostrr um showmessge com OK mostrndo qm venceu
+nesse ok tem o sirdsl
+
+esq
+1 2 3 4 5 6
+
+dealer
+24 23 22 21 20 19
+
+dir
+12 11 10 9 8 7
+
+meio
+18 17 16 15 14 13
+
+
+
+x:97 y:514
+x:168 y:517
+x:505 y:258
+x:541 y:258
+x:488 y:610
+x:534 y:609
+x:865 y:512
+x:920 y:513
